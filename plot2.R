@@ -1,5 +1,5 @@
 ##########################################################################################################################################################
-## This script should be run on the same path as the data file ousehold_power_consumption.txt
+## This script should be run on the same path as the data file household_power_consumption.txt
 ## Assuming that exdata-data-household_power_consumption.zip is already downloaded and extracted as household_power_consumption.txt
 ##########################################################################################################################################################
 
